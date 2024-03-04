@@ -1,2 +1,11 @@
 # E-Commerce-Streamlit
-Bangkit Dicoding Analyze Data with Python Final Project
+
+## Setup Environment
+'''
+pip install numpy pandas plotly streamlit datetime
+'''
+
+##Run Streamlit app
+'''
+streamlit run app.py
+'''
